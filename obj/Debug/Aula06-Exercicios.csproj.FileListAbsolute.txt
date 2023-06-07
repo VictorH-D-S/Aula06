@@ -1,0 +1,7 @@
+C:\Users\victor.hsantos45\source\repos\Aula06-Exercicios\Aula06-Exercicios\bin\Debug\Aula06-Exercicios.exe.config
+C:\Users\victor.hsantos45\source\repos\Aula06-Exercicios\Aula06-Exercicios\bin\Debug\Aula06-Exercicios.exe
+C:\Users\victor.hsantos45\source\repos\Aula06-Exercicios\Aula06-Exercicios\bin\Debug\Aula06-Exercicios.pdb
+C:\Users\victor.hsantos45\source\repos\Aula06-Exercicios\Aula06-Exercicios\obj\Debug\Aula06-Exercicios.csproj.AssemblyReference.cache
+C:\Users\victor.hsantos45\source\repos\Aula06-Exercicios\Aula06-Exercicios\obj\Debug\Aula06-Exercicios.csproj.CoreCompileInputs.cache
+C:\Users\victor.hsantos45\source\repos\Aula06-Exercicios\Aula06-Exercicios\obj\Debug\Aula06-Exercicios.exe
+C:\Users\victor.hsantos45\source\repos\Aula06-Exercicios\Aula06-Exercicios\obj\Debug\Aula06-Exercicios.pdb
